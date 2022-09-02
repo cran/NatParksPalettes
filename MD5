@@ -1,0 +1,16 @@
+f9d1d5f8e82bfbeaba275d5fa8e996ae *DESCRIPTION
+b4dc41e85a9214145f2e5ee967b66f95 *LICENSE
+07ac0a1e95d624ba25fa79511e5a7111 *NAMESPACE
+d4470ef58e3d74665157e880c6893848 *R/NatParksPalettes.R
+c977affd25e9e4cec53fd61d61545c0e *README.md
+d603887882bee8b9c6fe668d79b88fcd *man/NatParksPalettes.Rd
+e2c35aabb08135c9976447b7a47034ba *man/colorblind.friendly.Rd
+ea73507255a72241e93302f8598ff665 *man/colorblind_palettes.Rd
+31bbb33b0d0eed71f45a05587cf0063b *man/display_all.Rd
+f1b1060ac83cc3f77a394e7b659453e5 *man/natparks.pals.Rd
+877a07dca31e43c754ead875ef6decdb *man/scale_color_natparks_c.Rd
+354f5c73b10624affd94e3066d8bca87 *man/scale_color_natparks_d.Rd
+0a1cd4eb76247f07f50ac5a4fb1ab6fe *man/scale_colour_natparks_c.Rd
+3e1d01d75cfd22118e77b88c2eef2784 *man/scale_colour_natparks_d.Rd
+d79d785568ef1884dca7406b56fb994b *man/scale_fill_natparks_c.Rd
+996ac0c51f386801fb731387a5b0f291 *man/scale_fill_natparks_d.Rd
